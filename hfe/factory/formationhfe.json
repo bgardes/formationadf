@@ -1,0 +1,9 @@
+{
+	"name": "formationhfe",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f39e8ff-5271-46cb-908f-d79bd4f10241",
+		"tenantId": "d55902b5-7fd6-46a0-b3dc-e7c7a33b8300"
+	}
+}
